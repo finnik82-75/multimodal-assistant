@@ -75,7 +75,7 @@
 |----------|------|
 | Стартовое меню, выбор режима | docs/screenshots |
 | Диалог в режиме text/rag | docs/screenshots |
-| RAG-ответ с указанием источника | docs/screenshots |
+| RAG-ответ с указанием источника |  ![Telegram dialog](docs/screenshots/175.png) |
 | Голосовой ввод / ответ | ![Telegram dialog](docs/screenshots/165.png) |
 | Анализ изображения (vision) |![Telegram dialog](docs/screenshots/43.png) |
 
