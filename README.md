@@ -73,11 +73,11 @@
 
 | Описание | Файл |
 |----------|------|
-| Стартовое меню, выбор режима | *screenshot_start.png* |
-| Диалог в режиме text/rag | *screenshot_dialog.png* |
-| RAG-ответ с указанием источника | *screenshot_rag.png* |
-| Голосовой ввод / ответ | *screenshot_voice.png* |
-| Анализ изображения (vision) | *screenshot_vision.png* |
+| Стартовое меню, выбор режима | docs/screenshots |
+| Диалог в режиме text/rag | docs/screenshots |
+| RAG-ответ с указанием источника | docs/screenshots |
+| Голосовой ввод / ответ | docs/screenshots |
+| Анализ изображения (vision) | docs/screenshots |
 
 ---
 
