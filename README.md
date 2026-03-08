@@ -77,7 +77,7 @@
 | Диалог в режиме text/rag | docs/screenshots |
 | RAG-ответ с указанием источника | docs/screenshots |
 | Голосовой ввод / ответ | docs/screenshots |
-| Анализ изображения (vision) |![Telegram dialog] (docs/screenshots/43.png) |
+| Анализ изображения (vision) |![Telegram dialog](docs/screenshots/43.png) |
 
 ---
 
